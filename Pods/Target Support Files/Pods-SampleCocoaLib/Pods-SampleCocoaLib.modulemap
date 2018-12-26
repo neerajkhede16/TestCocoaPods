@@ -1,0 +1,6 @@
+module Pods_SampleCocoaLib {
+  umbrella header "Pods-SampleCocoaLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
